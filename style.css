@@ -1,0 +1,63 @@
+.snap{
+    font-size: xx-large;
+    font-weight:bolder;
+}
+.login{
+border: 0;
+background-color: white;
+font-weight:500;
+font-size: medium;
+margin-right:4%;
+}
+.register{
+    border: 0;
+    background-color: white;
+    margin-right: 3%;
+    width: 8em;
+    font-weight: 500;
+}
+.register:hover{
+    border: solid black 2px;
+    width: 8em;
+    height: 2em;
+    border-radius: 0.8em;
+}
+.drop :hover{
+    font-weight: 500;
+}
+.colum-right{
+    margin: 5%;
+}
+.make{
+    
+    color: black;
+    font-weight: 700;
+    font-size: 70px;
+}
+.desktop{
+    width: 80%;
+}
+
+.colum-right p{
+    padding-top: 10%;
+}
+.btn-1{
+    width: 10em;
+    height: 3em;
+    background-color: white;
+    border-radius: 1em;
+    margin-top: 50px;
+    font-weight: 600;
+}
+.btn-1:hover{
+    border-radius: 1em;
+    transform: scaleX(101%);
+    font-weight: 700;
+    transition: 0.5sec;
+}
+section{
+    padding-bottom: 10%;
+}
+.tab{
+    margin-top: -3em;
+}
